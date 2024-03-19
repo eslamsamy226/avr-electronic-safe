@@ -23,7 +23,7 @@ In order to achive the project funtionality I wrote the following drivers:
 these drivers can be found in /src forlder
 
 ## 👨‍💻Simulation
-The proteus simulation design can be found in (design.DSN) file, here is the simulation in action:
+The proteus simulation design can be found in (design.pdsprj) file, here is the simulation in action:
 
 https://github.com/eslamsamy226/avr-electronic-safe/assets/128985943/3968734c-fb52-468e-a08c-d6d7c37ef8e0
 
